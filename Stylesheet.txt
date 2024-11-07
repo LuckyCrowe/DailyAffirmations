@@ -1,0 +1,8 @@
+daily-affirmations/
+│
+├── index.html
+├── styles.css
+├── script.js
+└── images/
+    ├── affirmation1.jpg
+    └── affirmation2.jpg
